@@ -1,0 +1,20 @@
+{
+  "authors": [ "Nate Barbettini" ],
+  "description": "Injectable abstractions for System.Environment",
+  "frameworks": {
+    "net451": { },
+    "dotnet5.4": { }
+  },
+  "licenseUrl": "https://github.com/nbarbettini/System.Environment.Abstractions/blob/master/LICENSE",
+  "projectUrl": "https://github.com/nbarbettini/System.Environment.Abstractions",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nbarbettini/System.Environment.Abstractions"
+  },
+  "tags": [ "testing" ],
+  "title": "System.Environment.Abstractions",
+  "tooling": {
+    "defaultNamespace": "System.Environment"
+  },
+  "version": "1.0.0-beta1"
+}
