@@ -2,8 +2,16 @@
   "authors": [ "Nate Barbettini" ],
   "description": "Injectable abstractions for System.Environment",
   "frameworks": {
-    "net451": { },
+    "net451": {
+      "dependencies": {
+
+      }
+    },
     "dotnet5.4": { }
+  },
+  "dependencies": {
+    "System.Runtime.Extensions": "4.0.11-beta-23516"
+
   },
   "licenseUrl": "https://github.com/nbarbettini/System.Environment.Abstractions/blob/master/LICENSE",
   "projectUrl": "https://github.com/nbarbettini/System.Environment.Abstractions",
